@@ -1,0 +1,4 @@
+<RemappingConfig>
+	<remap name="REMAPPABLE_CONTROL_TOGGLE_BINOCULARS" pad="doubleclick:CONTROL_DPAD_UP" />
+	<remap name="REMAPPABLE_CONTROL_TOGGLE_PHONE" pad="doubleclick:CONTROL_DPAD_DOWN" />
+</RemappingConfig>

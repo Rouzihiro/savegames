@@ -1,0 +1,8 @@
+{
+  EnableCloudSaves = false
+  NewUpdateSoundRevisionViewed = 34818
+  ValidCheckpoint = false
+  Y = 720
+  X = 1280
+  UseGamepadGlyphs = true
+}

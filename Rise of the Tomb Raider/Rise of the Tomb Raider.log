@@ -1,0 +1,231 @@
+13:54:54:356 (00000284) > [Startup] Rise of the Tomb Raider
+13:54:54:357 (00000284) > [Startup] ==============
+13:54:54:357 (00000284) > [Startup] 
+13:54:54:357 (00000284) > [Startup] Build: v1.0 build 1027.0_64
+13:54:54:357 (00000284) > [Startup] Windows 10.0 (build 19043)
+13:54:54:357 (00000284) > [Startup] Game directory: C:\users\crossover\Documents\Rise of the Tomb Raider\
+13:54:54:357 (00000284) > [Startup] 
+13:54:54:357 (00000284) > [Startup] Memory statistics:
+13:54:54:357 (00000284) > [Startup]   Total RAM = 8.0 GB (8191 MB)
+13:54:54:357 (00000284) > [Startup]   Avail RAM = 0.8 GB (813 MB)
+13:54:54:357 (00000284) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+13:54:54:357 (00000284) > [Startup]   Avail virtual memory = 131071.9 GB (134217610 MB)
+13:54:54:357 (00000284) > [Startup] 
+13:54:54:357 (00000284) > [NxApp] PreInit
+13:54:54:358 (00000284) > [Epic] Initializing Epic SDK.
+13:54:54:497 (00000284) > [Epic] Initialized. Setting Logging Callback ...
+13:54:54:497 (00000284) > [Epic] Logging Callback Set
+13:54:54:497 (00000284) > [Epic] Creating platform.
+13:54:54:504 (00000284) > [Epic] LogEOSOverlay: Overlay will not load, because the binary's path is not configured
+13:54:54:520 (00000284) > [Epic] LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started with the correct launcher if you intend to use it.
+13:54:54:524 (00000284) > [Epic] Platform created.
+13:54:54:524 (00000284) > [SwapChain] Initializing...
+13:54:54:524 (00000284) > [DXGI] Initializing...
+13:54:54:532 (00000284) > [DXGI] Created DXGIFactory1
+13:54:54:532 (00000284) > [DXGI] Successfully initialized.
+13:54:54:532 (00000284) > [Render] Enumerating adapters:
+13:54:54:532 (00000284) > [Render] 	Adapter 0:
+13:54:54:532 (00000284) > [Monitor] 		Description             : AMD Compatibility Mode
+13:54:54:532 (00000284) > [Monitor] 		Vendor                  : AMD (1002)
+13:54:54:532 (00000284) > [Monitor] 		Device                  : 66af
+13:54:54:532 (00000284) > [Monitor] 		Sub system              : 0
+13:54:54:532 (00000284) > [Monitor] 		Revision                : 0
+13:54:54:532 (00000284) > [Monitor] 		Dedicated Video Memory  : 5461 MB
+13:54:54:532 (00000284) > [Monitor] 		Dedicated System Memory : 5461 MB
+13:54:54:532 (00000284) > [Monitor] 		Shared System Memory    : 5461 MB
+13:54:54:532 (00000284) > [Monitor] 
+13:54:54:532 (00000284) > [Render] Loading ADL...
+13:54:54:533 (00000284) > [Render] Failed to load ADL!
+13:54:54:533 (00000284) > [Render] Enumerating monitors:
+13:54:54:534 (00000284) > [Render] 	Monitor 0: handle = 0000000000000001, aspect = 1.60
+13:54:54:534 (00000284) > [Render] 
+13:54:54:779 (00000284) > [Render] Enumerating Display Modes:
+13:54:54:828 (00000284) > [NxDLSS] DLSS support test, code = 0xbad00001, info: NVSDK_NGX_Result_FAIL_FeatureNotSupported
+13:54:54:828 (00000284) > [NxDLSS] DLSS11 support test shutdown failed, error code = 0xbad00007, info: NVSDK_NGX_Result_FAIL_NotInitialized
+13:54:54:830 (00000284) > [Render] 	Monitor '1 (AMD Compatibility Mode(1))' (0000000000000001):
+13:54:54:830 (00000284) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+13:54:54:830 (00000284) > [Render] 		- Mode  1 : 1024 x  640 @  60 Hz, stereo = 0, hdr = 0
+13:54:54:830 (00000284) > [Render] 		- Mode  2 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+13:54:54:830 (00000284) > [Render] 		- Mode  3 : 1152 x  720 @  60 Hz, stereo = 0, hdr = 0
+13:54:54:830 (00000284) > [Render] 		- Mode  4 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+13:54:54:830 (00000284) > [Render] 		- Mode  5 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+13:54:54:830 (00000284) > [Render] 
+13:54:54:830 (00000284) > [SwapChain] Successfully initialized.
+13:54:54:830 (00000284) > [NxApp] PreInit successful.
+13:54:54:830 (00000284) > [Main] Current directory: Z:\Volumes\gamez\Epic Games\RiseoftheTombRaider
+13:54:54:830 (00000284) > [Main] Working directory: Z:\Volumes\gamez\Epic Games\RiseoftheTombRaider
+13:54:54:840 (00000284) > [MultiCore] CPU count: logical = 8
+13:54:55:097 (00000284) > [Main] Epic Language: '(null)'
+13:54:55:098 (00000284) > [Main] Settings: Text Language: '(null)' | VO Language: '(null)' | Steam Game Language '(null)'
+13:54:55:099 (00000284) > [Main] Using: Text Language: 'en-us' | VO Language: 'en-us'
+13:54:55:119 (00000284) > [Validate Settings] Desktop settings (Resolution: 1440 x 900, Multi-monitor: off, Bezel correction: off)
+13:54:57:891 (00000284) > [Validate Settings] Desktop settings (Resolution: 1440 x 900, Multi-monitor: off, Bezel correction: off)
+13:54:57:894 (00000284) > [Validate Settings] Desktop settings (Resolution: 1440 x 900, Multi-monitor: off, Bezel correction: off)
+13:54:57:894 (00000284) > [Validate Settings] Desktop settings (Resolution: 1440 x 900, Multi-monitor: off, Bezel correction: off)
+13:54:57:895 (00000284) > [Validate Settings] Desktop settings (Resolution: 1440 x 900, Multi-monitor: off, Bezel correction: off)
+13:54:57:896 (00000284) > [Validate Settings] Desktop settings (Resolution: 1440 x 900, Multi-monitor: off, Bezel correction: off)
+13:54:57:896 (00000284) > [Validate Settings] Desktop settings (Resolution: 1440 x 900, Multi-monitor: off, Bezel correction: off)
+13:54:57:898 (00000284) > [Validate Settings] Desktop settings (Resolution: 1440 x 900, Multi-monitor: off, Bezel correction: off)
+13:54:57:898 (00000284) > [Validate Settings] Desktop settings (Resolution: 1440 x 900, Multi-monitor: off, Bezel correction: off)
+13:54:57:899 (00000284) > [Validate Settings] Desktop settings (Resolution: 1440 x 900, Multi-monitor: off, Bezel correction: off)
+13:54:57:899 (00000284) > [Validate Settings] Desktop settings (Resolution: 1440 x 900, Multi-monitor: off, Bezel correction: off)
+13:54:57:899 (00000284) > [Validate Settings] Desktop settings (Resolution: 1440 x 900, Multi-monitor: off, Bezel correction: off)
+13:54:57:899 (00000284) > [Validate Settings] Desktop settings (Resolution: 1440 x 900, Multi-monitor: off, Bezel correction: off)
+13:55:07:292 (00000284) > [Validate Settings] Desktop settings (Resolution: 1440 x 900, Multi-monitor: off, Bezel correction: off)
+13:55:07:300 (00000284) > [D3D] Initializing...
+13:55:07:300 (00000284) > [D3D] Loaded d3d11.dll
+13:55:07:300 (00000284) > [D3D] Obtained D3D11CreateDevice address
+13:55:07:300 (00000284) > [D3D] Successfully initialized
+13:55:07:300 (00000284) > [D3D] Max supported feature level: 11.1
+13:55:07:302 (00000472) > [D3D] Creating D3D Device...
+13:55:07:302 (00000472) > [SwapChain] Creating D3D on adapter '1 (AMD Compatibility Mode(1))'.
+13:55:07:302 (00000472) > [SwapChain] Created D3D device with feature level 11.0.
+13:55:07:302 (00000472) > [D3D] Successfully created.
+13:55:07:303 (00000284) > [NxApp] Querying GPU Driver Info...
+13:55:07:309 (00000284) > [NxApp] Enumerating available display adapters:
+13:55:07:309 (00000284) > [NxApp] 		Apple M1
+13:55:07:311 (00000284) > [NxApp] Unable to find active GPU
+13:55:07:311 (00000284) > [NxApp] Failed to get GPU Driver Info
+13:55:07:311 (00000284) > [NxApp] Driver Desc: 
+13:55:07:311 (00000284) > [NxApp] Driver Version: 
+13:55:07:311 (00000284) > [Settings] DirectX Version: 11
+13:55:07:311 (00000284) > [Settings] Window mode:
+13:55:07:311 (00000284) > [Settings] 	Fullscreen: 1
+13:55:07:311 (00000284) > [Settings] 	Excl.Fullscreen: 0
+13:55:07:311 (00000284) > [Settings] 	Monitor: 0
+13:55:07:311 (00000284) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 1440 h: 900
+13:55:07:311 (00000284) > [Settings] 		Workspace Rect: x: 0 y: 25 w: 1440 h: 804
+13:55:07:311 (00000284) > [Settings] 		Aspect Ratio: 1.597765 (Pixel Aspect Ratio: 1.001399)
+13:55:07:311 (00000284) > [Settings] Fullscreen display mode:
+13:55:07:311 (00000284) > [Settings] 	Display mode: 1440x900@60
+13:55:07:311 (00000284) > [Settings] 		VSync: 1, TripleBuffer: 0
+13:55:07:311 (00000284) > [Settings] 		MultiMonitor: 0
+13:55:07:311 (00000284) > [Settings] 		BezelCorrected: 0
+13:55:07:311 (00000284) > [Settings] 		Stereoscopic3D: 0
+13:55:07:311 (00000284) > [Settings] Window settings:
+13:55:07:311 (00000284) > [Settings] 	Window rect: x: 180 y: 146 w: 1080 h: 607
+13:55:07:311 (00000284) > [Settings] 	User window: w: 1080 h: 607
+13:55:07:311 (00000284) > [Settings] 	Window maximized: 0
+13:55:07:311 (00000284) > [Settings] Graphics Options:
+13:55:07:311 (00000284) > [Settings] 	TextureQuality: 2, TextureFiltering: 2, ShadowQuality: 2
+13:55:07:311 (00000284) > [Settings] 	AO: 1, DOF: 1, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 1
+13:55:07:311 (00000284) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
+13:55:07:311 (00000284) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
+13:55:07:311 (00000284) > [Settings] 	Specular Reflection Quality: 0
+13:55:07:311 (00000284) > [Settings] 	FoliageQuality: 1
+13:55:07:311 (00000284) > [Settings] 	FOVCorrection :1.000000
+13:55:07:311 (00000284) > [Settings] 	LevelOfDetail: 2
+13:55:07:311 (00000284) > [Settings] 	StereoSeparation: 0.022500
+13:55:07:311 (00000284) > [Settings] 	StereoPopOut: 5.000000
+13:55:07:311 (00000284) > [Settings] 	StereoNearSeparationMultiplier :0.350000
+13:55:07:312 (00000284) > [NxApp] Creating window...
+13:55:07:323 (00000476) > [GameWindow] UpdateState bVisible true
+13:55:07:349 (00000476) > [Input] Keyboard language: "English (United States)" (id: 1033)
+13:55:07:350 (00000476) > [Input] ERROR: Failed to open registry key "SYSTEM\CurrentControlSet\Control\Keyboard Layouts\00000409". (Error: "畓捣獥⹳਀" code: 0x00000000)
+13:55:07:354 (00000476) > [Input] Mouse               "Wine HID device"   id 1 buttons 5 sampleRate 0 horizontalWheel no
+13:55:07:355 (00000476) > [Input] Keyboard            "Wine HID device"   type 0 subType 0 mode 1 function 12 indicators 3 total 101
+13:55:07:369 (00000284) > [NxApp] Window created.
+13:55:07:369 (00000284) > [NxApp] Initializing swapchain...
+13:55:07:369 (00000472) > [SwapChain] Creating...
+13:55:07:369 (00000472) > [VR] VR Released.
+13:55:07:396 (00000472) > [DXGI] Created swapchain.
+13:55:07:397 (00000472) > [SwapChain] Gamma correction is enabled.
+13:55:07:397 (00000472) > [SwapChain] Successfully created.
+13:55:07:399 (00000284) > [NxApp] Swapchain initialized
+13:55:07:399 (00000284) > [NxApp] Initializing renderer...
+13:55:07:403 (00000284) > [NxApp] Renderer initialized
+13:55:07:403 (00000284) > [Main] Starting Tomb Raider v1.0 build 1027.0_64
+13:55:07:405 (00000284) > [D3D] [Render] PCDX11DeviceManager constructor start
+13:55:07:406 (00000284) > [D3D] D3D Adapter Information:
+13:55:07:406 (00000284) > [D3D] Adapter Description: AMD Compatibility Mode
+13:55:07:406 (00000284) > [D3D] VendorID: 1002
+13:55:07:406 (00000284) > [D3D] DeviceID: 66af
+13:55:07:406 (00000284) > [D3D] Revision: 0
+13:55:07:406 (00000284) > [D3D] 
+ATIAGSGetDefaultDisplayIndex says 0.
+
+13:55:07:407 (00000284) > [D3D] CROSSFIRE GPU count 1.
+
+13:55:07:426 (00000284) > [VXGI] This hardware does not support VXGI. Only supported on Maxwell 2 or higher.
+13:55:07:431 (00000284) > [HBAO+] HBAO+ Context creation succeeded
+13:55:07:443 (00000284) > [D3D] [Render] PCDX11DeviceManager constructor end
+13:55:07:443 (00000284) > [D3D] D3D Adapter Information:
+13:55:07:443 (00000284) > [D3D] Adapter Description: AMD Compatibility Mode
+13:55:07:444 (00000284) > [D3D] VendorID: 1002
+13:55:07:444 (00000284) > [D3D] DeviceID: 66af
+13:55:07:444 (00000284) > [D3D] Revision: 0
+13:55:07:444 (00000284) > [D3D] 
+ATIAGSGetDefaultDisplayIndex says 0.
+
+13:55:07:444 (00000284) > [D3D] CROSSFIRE GPU count 1.
+
+13:55:07:446 (00000284) > [VXGI] This hardware does not support VXGI. Only supported on Maxwell 2 or higher.
+13:55:07:447 (00000284) > [HBAO+] HBAO+ Context creation succeeded
+13:55:07:466 (00000284) > [D3D] PCDX11SwapChain::Resize(1440, 900, False)
+13:55:07:466 (00000284) > [D3D] PCDX11SwapChain::Resize no change
+13:55:07:629 (00000284) > [Sound] Initalizing audio...
+13:55:08:151 (00000284) > [Sound] Audio device found. FMOD reports 1 driver(s).
+13:55:08:152 (00000284) > [Sound] Audio Driver Name: MacBook Air Speakers (MacBook Air Speakers)
+13:55:08:152 (00000284) > [Sound] Speaker Mode: 2
+13:55:09:129 (00000284) > [Input] Assigned gamepad -1 to player 0
+13:55:09:786 (00000284) > [Epic] LogEOS: Large tick time detected 15.2624
+13:55:09:788 (00000284) > [Epic] LogEOS: Updating Platform SDK Config, Time: 15.262431
+13:55:10:644 (00000284) > [Epic] ERROR: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Id reason: must not be null or empty
+13:55:10:659 (00000284) > [Epic] LogEOSAuth: No valid auth for userid = ...
+13:55:10:659 (00000284) > [Epic] LogEOSAuth: No valid auth for userid = ...
+13:55:10:659 (00000284) > [Epic] LogEOSAuth: No valid auth for userid = ...
+13:55:10:659 (00000284) > [Epic] LogEOSAuth: No valid auth for userid = ...
+13:55:10:673 (00000284) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+13:55:10:673 (00000284) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+13:55:10:674 (00000284) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+13:55:10:674 (00000284) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+13:55:11:460 (00000284) > [Epic] LogEOS: SDK Config Platform Update Request Successful, Time: 16.918499
+13:55:11:470 (00000284) > [Epic] LogEOSAnalytics: Start Session (User: ...)
+13:55:11:471 (00000284) > [Epic] LogEOSAnalytics: Record Event: SDKOverlayComponent.Init <Redacted>
+13:55:11:471 (00000284) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:55:11:471 (00000284) > [Epic] WARNING: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+13:55:11:478 (00000284) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+13:55:11:478 (00000284) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+13:55:11:479 (00000284) > [Epic] LogEOS: Updating Product SDK Config, Time: 16.935307
+13:55:11:627 (00000284) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:55:11:662 (00000284) > [Epic] ERROR: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Id reason: must not be null or empty
+13:55:11:662 (00000284) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+13:55:11:692 (00000284) > [Epic] LogEOSAnalytics: Start Session (User: ...)
+13:55:11:859 (00000284) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:55:11:893 (00000284) > [Epic] LogEOS: SDK Config Product Update Request Successful, Time: 17.334791
+13:55:11:895 (00000284) > [Epic] WARNING: LogEOSEcom: Purchase flow is disabled due to overlay setup failure (EOS_NotConfigured).
+13:55:11:895 (00000284) > [Epic] WARNING: LogEOSUI: Social overlay is disabled due to overlay setup failure (EOS_UnexpectedError).
+13:55:11:895 (00000284) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+13:55:11:895 (00000284) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+13:55:11:895 (00000284) > [Epic] LogEOS: SDK Config Data - Watermark: 947546383
+13:55:11:895 (00000284) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17.334791, Update Interval: 319.135101
+13:55:12:087 (00000284) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:55:12:687 (00000284) > [Epic] ERROR: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Id reason: must not be null or empty
+13:55:13:687 (00000284) > [Epic] ERROR: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Id reason: must not be null or empty
+13:55:14:687 (00000284) > [Epic] ERROR: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Id reason: must not be null or empty
+13:55:15:718 (00000284) > [Epic] ERROR: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Id reason: must not be null or empty
+13:55:16:722 (00000284) > [Epic] ERROR: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Id reason: must not be null or empty
+13:55:17:723 (00000284) > [Epic] ERROR: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Id reason: must not be null or empty
+13:55:18:488 (00000284) > [Menu] UiMenuStateSquareEnixMembers::OnEnter: bFromStartupFlow=0, HasSEMBeenHandled=0, bIsOnline=1
+13:55:18:752 (00000284) > [Epic] ERROR: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Id reason: must not be null or empty
+13:55:22:828 (00000284) > [Epic] ERROR: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Id reason: must not be null or empty
+13:55:22:828 (00000284) > [Epic] LogEOS: Large tick time detected 4.0079
+13:55:42:213 (00000284) > [Epic] Stats - Ingest Stats Error: EOS_InvalidUser
+13:55:42:214 (00000284) > [Epic] Stats - Ingest Stats Error: EOS_InvalidUser
+13:55:42:214 (00000284) > [Epic] Stats - Ingest Stats Error: EOS_InvalidUser
+13:55:42:214 (00000284) > [Epic] Stats - Ingest Stats Error: EOS_InvalidUser
+13:56:00:107 (00000284) > [Epic] LogEOS: Large tick time detected 15.6020
+13:56:13:729 (00000284) > [Epic] LogEOS: Large tick time detected 13.6222
+13:56:13:741 (00000284) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:56:13:741 (00000284) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:56:13:741 (00000284) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:56:13:741 (00000284) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:56:22:837 (00000284) > [Epic] ERROR: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Id reason: must not be null or empty
+13:56:42:069 (00000284) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:56:54:702 (00000284) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:57:22:818 (00000284) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:57:22:868 (00000284) > [Epic] ERROR: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Id reason: must not be null or empty
+13:58:22:832 (00000284) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:58:22:899 (00000284) > [Epic] ERROR: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Id reason: must not be null or empty
+13:58:54:732 (00000284) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:59:13:909 (00000284) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
