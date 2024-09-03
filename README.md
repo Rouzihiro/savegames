@@ -2,7 +2,8 @@
 
 ## Crossover Version 24.0.4 (24.0.4.37063):
 
-### Baldur's Gate 3: Running fine
+### Baldur's Gate 3: 
+#### Performance: Running fine
 #### Settings: DX 11, D3DMetal, MSync
 ##### savegame location: 
 windows:
@@ -11,7 +12,9 @@ C:\Users\<username>\AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles\
 Steam:
 userdata\SteamID\1086940\remote\_SAVE_Public\Savegames
 
-### Cyberpunk 2077: Runnning fine, some glitches
+
+### Cyberpunk 2077: 
+#### Performance: Runnning fine, some glitches
 #### Settings: DX 11, D3DMetal, MSync
 ##### savegame location: 
 windows: 
